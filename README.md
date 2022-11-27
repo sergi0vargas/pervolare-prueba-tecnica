@@ -11,8 +11,8 @@ npm install
 Crear db y configurar en .env
 php artisan key:generate
 php artisan migrate --seed
-php artisan passport:install
 php artisan serve
+npm run dev (en otra terminal)
 ```
 
 usuario de pruebas
